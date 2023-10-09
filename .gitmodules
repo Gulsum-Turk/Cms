@@ -3,6 +3,4 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:Gulsum-Turk/Gulsum-Turk.github.io.git
-[submodule "themes/DoIt"]
-	path = themes/DoIt
-	url = git@github.com:Gulsum-Turk/DoIt.git
+
