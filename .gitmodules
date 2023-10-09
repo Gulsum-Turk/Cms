@@ -2,3 +2,6 @@
 	path = themes/DoIt
 	url = https://github.com/HEIGE-PCloud/DoIt.git
 
+[submodule "public"]
+	path = public
+	url = git@github.com:Gulsum-Turk/Gulsum-Turk.github.io.git
